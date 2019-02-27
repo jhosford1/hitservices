@@ -1348,8 +1348,8 @@ input::-moz-focus-inner {
 }
 
 
-/* ------------------------------------------------------------------- 
- * ## main navigation 
+/* -------------------------------------------------------------------
+ * ## main navigation
  * ------------------------------------------------------------------- */
 .header-nav {
   z-index: 900;
@@ -1747,7 +1747,7 @@ input::-moz-focus-inner {
 }
 
 
-/* ------------------------------------------------------------------- 
+/* -------------------------------------------------------------------
  * ## home sidelinks
  * ------------------------------------------------------------------- */
 .home-sidelinks {
@@ -1927,7 +1927,7 @@ html.no-csstransitions .home-content__main {
 }
 
 
-/* ------------------------------------------------------------------- 
+/* -------------------------------------------------------------------
  * ## home animations
  * ------------------------------------------------------------------- */
 /* fade in */
@@ -2216,7 +2216,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 .s-about {
   padding-top: 18rem;
-  padding-bottom: 18rem;
+  /* padding-bottom: 18rem; */
   background-color: #ffffff;
   position: relative;
 }
@@ -2285,7 +2285,7 @@ html.no-csstransitions .home-content__main {
 @media only screen and (max-width: 1200px) {
   .s-about {
     padding-top: 15rem;
-    padding-bottom: 15rem;
+    /* padding-bottom: 15rem; */
   }
 
   .process__vline-left {
@@ -2457,7 +2457,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  background: #ffffff;
+  background: #cfcfcf;
   padding: 18rem 0 24rem;
   position: relative;
 }
